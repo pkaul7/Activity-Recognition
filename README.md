@@ -1,8 +1,5 @@
 # Project Title : Activity Recognition using Mobile Sensor Data
 
-## Team members: Guneet Khosla, Pranit Kaul, Parul Aggarwal, Nishit Undale, Akshat Thakkar
-## CS 7641 - Team23
-
 <img src="images/user-activity-recognition-still-walking-running-driving.jpg" alt="hi" width = "900" class="inline"/>
 
 ## Project Overview and Motivation
